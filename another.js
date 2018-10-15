@@ -1,2 +1,2 @@
-let another='this is an another text edit on branch'
+let another='this is an another commit on branch'
 console.log(another)
