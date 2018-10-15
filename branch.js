@@ -1,2 +1,2 @@
-let a='this is a new text edit on branch'
-console.log(a)
+let command='this is a commit from branch'
+console.log(command)
